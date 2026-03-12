@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ValorySMP.aternos.me",
+    "ip": "afador.aternos.host:57175",
     "port": 57175,
     "version": "",
     "try-creative": false
